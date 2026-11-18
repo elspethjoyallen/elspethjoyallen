@@ -11,8 +11,7 @@ VMD/Tcl ·  Pymol · MATLAB · Python · MD trajectory analysis
   [View the repository](REPOSITORY-LINK)
 
 ## Research interests
-GPCR structure, dynamics, and activation
-Rare blood diseases, cancer
+GPCR structure, dynamics, and activation; rare blood diseases, cancer
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/elspeth-beth-allen/)
