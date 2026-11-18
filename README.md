@@ -1,16 +1,19 @@
-## Hi there 👋
+# Elspeth "Beth" Allen, M.S.
 
-<!--
-**elspethjoyallen/elspethjoyallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on molecular dynamics and computational analysis of protein systems.
 
-Here are some ideas to get you started:
+## Tools and methods
+VMD/Tcl ·  Pymol · MATLAB · Python · MD trajectory analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- **VMD distance-analysis pipeline** — Calculates distances across multiple
+  systems, replicas, and activation signatures, then generates MATLAB figures.
+  [View the repository](REPOSITORY-LINK)
+
+## Research interests
+GPCR structure, dynamics, and activation
+Rare blood diseases, cancer
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/elspeth-beth-allen/)
+[Email](elspethjoy.allen@gmail.com)
